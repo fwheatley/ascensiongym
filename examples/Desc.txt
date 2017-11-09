@@ -1,0 +1,64 @@
+![Bootstrap Theme](https://dl.dropbox.com/u/13873847/metro/sale8.jpg)
+
+Metro Mania is an all in one, Professional and **Responsive Metro Bootstrap theme**. Metro Mania comes with 60 pages and 6 colors (Purple, Red, Light blue, Blue, Green and Orange). Current Metro Mania is one of the best selling theme in WrapBootstrap which already made more 300 sales. Don't miss it. 
+
+###Features:
+
+ 1. Professional, Minimal and Fully Responsive.
+ 2. Comes with 6 great colors - Purple, Green, Blue, Light Blue, Red and Orange. 
+ 3. Currently has 60 pages.
+ 4. Cool Color boxes.
+ 5. Cool slider.
+ 6. Support page with filter option.
+ 7. Isotope Filterable Portfolio. 
+ 8. Register and Login page.
+
+Don't miss this great theme.  Just $8. Limited period offer. 
+
+**Credits:**
+
+http://www.flickr.com/photos/archeon/
+
+http://medialoot.com/item/free-designer-portfolio-icon-set/
+
+**Changelog:**
+
+**Version 3.1:**
+
+ - Updated to Bootstrap v 2.3.0
+
+**Version 3.0:**
+
+**Note:** There is no major change in older pages. Only change is, included extra CSS and JS files]
+
+ - Updated bootstrap.js to Version 2.2.2.
+ - Added 30+ new pages. 
+ - Added Twitter plugin (All html files).
+ - Added easing js plugin. (All html files).
+ - Added Flexslider. Flexslider css file and js file included in all HTML files. Image file "bg_direction_nav" added to img folder.
+ - Added two new colors (red.css, lblue.css).
+ - Support page update (support.cfm).
+ - Service section read more icon change.
+ - Footer widgets update (All html files).
+ - Lots of design improvements (style.css, blue.css, green.css, orange.css, purple.css)
+ - Added Colored testimonials (testimonial.cfm & style.css)
+ - IE Top Border fix. (blue.css, green.css, orange.css, purple.css)
+
+**Version 2.2:**
+
+ - Bootstrap updated to Version 2.2.2.
+
+**Version 2.0:**
+
+ - Font awesome icon updated to Version 3.0
+ - Icon fix in Service blocks (style.css).
+ - New Pages added - 404, About us, Blog, Features, Resume, Contact, Service, Testimonials (style.css, blue.css, green.css, purple.css, orange.css)
+
+**Version 1.2:**
+
+ - Navigation bar hover bug fixed.
+ - Button updated.
+
+**Version 1.0:**
+
+ - Initial Release.

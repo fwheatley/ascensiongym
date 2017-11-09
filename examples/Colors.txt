@@ -1,0 +1,6 @@
+Orange - fe781e - e66d1c
+Blue -  1570a6 - 11608f
+Purple - 9b59bb - 81499c
+Green - 41bb19 - 379e15
+Black - 333333 - 000000
+Grey - e9e9e9 - d1d1d1

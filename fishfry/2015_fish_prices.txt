@@ -1,0 +1,14 @@
+itemid	itemdesc	itemprice
+bfish	"Baked Fish"	4.50
+bosco	"Bosco Sticks (2)"	1.50
+ffish	"Fried Fish"	5.00
+freefish	"Free Fish"	0.00
+fries	"French Fries"	1.50
+green	"Green Beans"	1.50
+mac	"Macaroni and Cheese"	2.00
+onion	"Onion Rings"	2.00
+pizza	"Cheese Pizza"	1.50
+pizza2	"Free Pizza"	0.00
+shrimp	"Shrimp Bowl"	5.50
+slaw	Slaw	1.50
+tator	"Baked Potato"	1.50

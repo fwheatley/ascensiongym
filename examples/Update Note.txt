@@ -1,0 +1,4 @@
+Metro JS:
+
+1. While updating, remove the styles containing reference to default images.
+2. Flex slider css file - update arrow image links.

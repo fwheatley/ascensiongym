@@ -1,0 +1,55 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"ERROR","web-0","10/17/2017","08:52:10","cfthread-221","Syntax Error, Invalid Construct
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.checker(CFMLExpressionInterpreter.java:1006):1006
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.clip(CFMLExpressionInterpreter.java:942):942
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.negateMinusOp(CFMLExpressionInterpreter.java:930):930
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.unaryOp(CFMLExpressionInterpreter.java:883):883
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.expoOp(CFMLExpressionInterpreter.java:872):872
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.divMultiOp(CFMLExpressionInterpreter.java:832):832
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.modOp(CFMLExpressionInterpreter.java:812):812
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.plusMinusOp(CFMLExpressionInterpreter.java:655):655
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.concatOp(CFMLExpressionInterpreter.java:635):635
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.decsionOp(CFMLExpressionInterpreter.java:436):436
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.notOp(CFMLExpressionInterpreter.java:421):421
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.andOp(CFMLExpressionInterpreter.java:392):392
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.orOp(CFMLExpressionInterpreter.java:374):374
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.xorOp(CFMLExpressionInterpreter.java:356):356
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.eqvOp(CFMLExpressionInterpreter.java:339):339
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.impOp(CFMLExpressionInterpreter.java:322):322
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.contOp(CFMLExpressionInterpreter.java:288):288
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.assignOp(CFMLExpressionInterpreter.java:272):272
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.interpret(CFMLExpressionInterpreter.java:188):188
+	at railo.runtime.functions.dynamicEvaluation.Evaluate._call(Evaluate.java:91):91
+	at railo.runtime.functions.dynamicEvaluation.Evaluate.call(Evaluate.java:84):84
+	at railo.runtime.functions.dynamicEvaluation.Evaluate.call(Evaluate.java:25):25
+	at admin.extension_functions_cfm460$cf.threadCall(F:\Workspace\git\igal-getrailo\railo-cfml\railo-admin\admin\extension.functions.cfm:132):132
+	at railo.runtime.thread.ChildThreadImpl.execute(ChildThreadImpl.java:181):181
+	at railo.runtime.thread.ChildThreadImpl.run(ChildThreadImpl.java:130):130
+"
+"ERROR","web-0","10/17/2017","08:52:10","cfthread-222","Syntax Error, Invalid Construct
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.checker(CFMLExpressionInterpreter.java:1006):1006
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.clip(CFMLExpressionInterpreter.java:942):942
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.negateMinusOp(CFMLExpressionInterpreter.java:930):930
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.unaryOp(CFMLExpressionInterpreter.java:883):883
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.expoOp(CFMLExpressionInterpreter.java:872):872
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.divMultiOp(CFMLExpressionInterpreter.java:832):832
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.modOp(CFMLExpressionInterpreter.java:812):812
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.plusMinusOp(CFMLExpressionInterpreter.java:655):655
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.concatOp(CFMLExpressionInterpreter.java:635):635
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.decsionOp(CFMLExpressionInterpreter.java:436):436
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.notOp(CFMLExpressionInterpreter.java:421):421
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.andOp(CFMLExpressionInterpreter.java:392):392
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.orOp(CFMLExpressionInterpreter.java:374):374
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.xorOp(CFMLExpressionInterpreter.java:356):356
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.eqvOp(CFMLExpressionInterpreter.java:339):339
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.impOp(CFMLExpressionInterpreter.java:322):322
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.contOp(CFMLExpressionInterpreter.java:288):288
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.assignOp(CFMLExpressionInterpreter.java:272):272
+	at railo.runtime.interpreter.CFMLExpressionInterpreter.interpret(CFMLExpressionInterpreter.java:188):188
+	at railo.runtime.functions.dynamicEvaluation.Evaluate._call(Evaluate.java:91):91
+	at railo.runtime.functions.dynamicEvaluation.Evaluate.call(Evaluate.java:84):84
+	at railo.runtime.functions.dynamicEvaluation.Evaluate.call(Evaluate.java:25):25
+	at admin.extension_functions_cfm460$cf.threadCall(F:\Workspace\git\igal-getrailo\railo-cfml\railo-admin\admin\extension.functions.cfm:132):132
+	at railo.runtime.thread.ChildThreadImpl.execute(ChildThreadImpl.java:181):181
+	at railo.runtime.thread.ChildThreadImpl.run(ChildThreadImpl.java:130):130
+"
